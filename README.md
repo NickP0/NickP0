@@ -1,7 +1,7 @@
 #  Hi👋, I’m Nick!
 **I have a passion for Business Operations, Data Analysis, & Programming (newly found)!**
 - 🌱 Currently developing my skills in Python, SQL, and VBA!
-- 📫 How to reach me - nicholaspetras5@gmail.com! Let's connect!
+- 📫 How to reach me - nicholaspetras5@gmail.com - Let's connect!
 
 # **Languages & Tools**
 [<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white">](https://www.python.org/)
