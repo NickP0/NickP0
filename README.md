@@ -1,4 +1,4 @@
-#  Hi👋, I’m Nick Petras!
+#  Hi👋, I’m Nick!
 **I have a passion for Business Operations & Programming (newly found)!**
 - 🌱 Currently developing my skills in Python, SQL, and VBA!
 - 📫 How to reach me - nicholaspetras5@gmail.com! Let's connect!
