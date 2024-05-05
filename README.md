@@ -7,6 +7,7 @@
 [<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white">](https://www.python.org/)
 [<img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white">](https://www.postgresql.org/)
 [<img src="https://img.shields.io/badge/-Pandas-blue?style=for-the-badge&logo=pandas&logoColor=white">](https://pandas.pydata.org/)
+[<img src="https://img.shields.io/badge/-NumPy-blue?style=for-the-badge&logo=numpy&logoColor=white">](https://numpy.org/)
 [<img src="https://img.shields.io/badge/-VBA-green?style=for-the-badge&logo=microsoft-excel&logoColor=white">](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications)
 
 
